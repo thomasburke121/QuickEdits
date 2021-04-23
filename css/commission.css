@@ -1,0 +1,25 @@
+
+#desc{
+    width: 50%;
+    height: 100px;
+}
+#Counter{
+    text-align: center;
+    color: white;
+}
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+    height: 100%;
+    max-width: 100%;
+    width: auto;
+
+}
+.carousel{
+    padding-top: 5%;
+    height: 350px;
+}
+#Commsion{
+    color: white;
+}
+

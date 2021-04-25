@@ -22,7 +22,7 @@ if ($connection->error != null) {
         $id = $row['completepath'];
         $iduser = $row['path'];
         echo "<tr>";
-        echo "<td>" . $row['users_id'] . "</td>";
+        echo "<td>" . $row['id'] . "</td>";
         echo "<td>" . $row['itemtype'] . "</td>";
         echo "<td>" . $row['userdesc'] . "</td>";
         echo "<td>" . $row['email'] . "</td>";
